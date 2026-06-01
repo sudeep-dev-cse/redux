@@ -10,7 +10,7 @@ const App = () => {
     const [num, setNum] = useState(0)
 
   return (
-    <div>
+    <div  className="container">
 
       <h1>{count}</h1>
 
